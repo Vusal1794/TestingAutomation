@@ -5,5 +5,7 @@ public class SpecialFile {
 
     public void specialMethod(){
         //so special information
+
+        //more things
     }
 }
