@@ -1,4 +1,4 @@
-package specialFiles;
+package utils;
 
 public class SpecialFile {
     //some special stuff
